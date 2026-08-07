@@ -60,3 +60,27 @@ Linux-With-PuTTY/
     ├── security-group.png
     ├── puttygen.png
     └── putty-connection.png
+```
+---
+
+## 📊 Project Presentation
+
+[📥 Download/View Project PPT](https://github.com/darshanpatil8799/Linux-With-Putty/raw/refs/heads/main/LINUX_WITH_PUTTY.pptx)
+
+---
+
+## 👨‍💻 Author
+
+**Darshan Patil**
+
+🚀 DevOps Engineer | AWS Cloud Enthusiast
+
+📧 Email: [darshanpatil8799@gmail.com](mailto\:darshanpatil8799@gmail.com)
+
+🔗 LinkedIn:
+[https://www.linkedin.com/in/darshan-patil-aws-devops](https://www.linkedin.com/in/darshan-patil-aws-devops)
+
+🐙 GitHub:
+https\://github.com/darshanpatil8799
+
+---
