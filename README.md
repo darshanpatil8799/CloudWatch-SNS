@@ -53,3 +53,60 @@ SNS Topic
 Email Notification
      ↓
 Administrator Action
+
+```
+---
+
+## 📊 Project Presentation
+
+[📥 Download/View Project PPT](https://github.com/darshanpatil8799/CloudWatch-SNS/edit/main/CloudWatch-SNS.pdf)
+
+---
+
+## 📖 Implementation Steps
+
+1️⃣ Create an Amazon EC2 Instance
+
+2️⃣ Configure Amazon CloudWatch Monitoring
+
+3️⃣ Create a CloudWatch Alarm
+
+4️⃣ Set CPU Utilization Threshold to 40%
+
+5️⃣ Create an Amazon SNS Topic
+
+6️⃣ Configure Email Subscription
+
+7️⃣ Confirm SNS Email Subscription
+
+8️⃣ Generate CPU Load Using Stress Testing
+
+9️⃣ Trigger the CloudWatch Alarm
+
+🔟 Receive Automated Email Notification
+
+---
+
+## 🎯 Learning Outcomes
+
+- Amazon EC2 Monitoring
+- Amazon CloudWatch
+- CloudWatch Alarms
+- CPU Utilization Monitoring
+- Amazon SNS
+- Email Notifications
+- CPU Stress Testing
+- AWS Monitoring & Observability
+- Automated Alerting
+
+---
+
+## 🌟 Future Enhancements
+
+- Monitor Memory & Disk Utilization
+- Create CloudWatch Dashboards
+- Configure SMS Notifications
+- Integrate Slack/Teams Alerts
+- Implement AWS Lambda Automated Remediation
+- Configure Auto Scaling
+- Integrate Monitoring with CI/CD
