@@ -59,7 +59,7 @@ Administrator Action
 
 ## 📊 Project Presentation
 
-[📥 Download/View Project PPT](https://github.com/darshanpatil8799/CloudWatch-SNS/edit/main/CloudWatch-SNS)
+[📥 View Project Documentation](https://github.com/darshanpatil8799/CloudWatch-SNS/blob/main/CloudWatch-SNS.pdf)
 
 ---
 
