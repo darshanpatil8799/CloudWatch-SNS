@@ -102,7 +102,8 @@ sudo yum install stress -y
 Generate a CPU load for a short, controlled test:
 
 ```bash
-stress --cpu 2 --timeout 120
+Yum install stress –y
+Stress --cpu9
 ```
 
 The exact package manager and package availability can vary by Amazon Linux version. Use a test workload appropriate for your instance size and stop it after validation.
@@ -141,10 +142,6 @@ The exact package manager and package availability can vary by Amazon Linux vers
 - Testing an alert workflow by generating controlled CPU load.
 - Improving awareness of monitoring, incident response, and server reliability.
 
-## 📸 Project Screenshots
-
-Create a `screenshots/` folder in this repository and add your own project screenshots.
-
 ```text
 .
 ├── README.md
@@ -155,11 +152,6 @@ Create a `screenshots/` folder in this repository and add your own project scree
     ├── sns-email-subscription.png
     └── email-alert.png
 ```
-
-Display a screenshot in this README with Markdown, for example:
-
-```markdown
-![CloudWatch CPU Alarm](screenshots/cloudwatch-alarm.png)
 ```
 
 ## 🚀 Future Enhancements
