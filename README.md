@@ -102,8 +102,7 @@ sudo yum install stress -y
 Generate a CPU load for a short, controlled test:
 
 ```bash
-Yum install stress –y
-Stress --cpu9
+stress --cpu9
 ```
 
 The exact package manager and package availability can vary by Amazon Linux version. Use a test workload appropriate for your instance size and stop it after validation.
